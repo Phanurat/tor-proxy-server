@@ -1,2 +1,1 @@
-SOCKSPort 9050
-Log notice stdout
+SOCKSPort 0.0.0.0:9050
