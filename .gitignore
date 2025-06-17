@@ -1,1 +1,5 @@
 app.py
+go.mod
+go.sum
+# Ignore Python cache files
+app.go
